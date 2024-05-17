@@ -20,4 +20,4 @@ SortQuester is sorting visualizer website.
 ![Screenshot (60)](https://github.com/Harshit2012/SortQuester/assets/105143145/4a28fa85-56c6-4edb-b12f-da0b8a2a1534)
 
 ## License
-
+This repository is under [MIT License](https://github.com/Harshit2012/SortQuester#MIT-1-ov-file)
