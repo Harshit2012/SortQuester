@@ -5,6 +5,11 @@
 # SortQuester
 SortQuester is sorting visualizer website.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/SortQuester?tab=MIT-1-ov-file#readme)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/SortQuester)
+![Forks](https://img.shields.io/github/forks/harshit2012/SortQuester)
+![Stars](https://img.shields.io/github/stars/harshit2012/SortQuester)
+
 ## Features
 - Customizable Parameters
 - Algorithm Selection
