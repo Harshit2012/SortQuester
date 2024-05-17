@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f8f9fa;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    margin-left: 46%;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.bars-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 60vh;
+}
+
+.bar {
+    width: 10px;
+    margin: 0 1px;
+    background-color: #007bff;
+    transition: height 0.3s;
+}
+
+.controls {
+    margin-top: 30px;
+}

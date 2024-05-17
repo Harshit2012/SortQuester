@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SortQuester</title>
+    <link rel="icon" href="logo.jpg">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">  
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="logo.jpg" alt="No Internet!" id="logo">
+        <h1 class="text-center">SortQuester</h1>
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-4">
+                <label for="algorithm-select">Select Algorithm:</label>
+                <select id="algorithm-select" class="form-control">
+                    <option value="bubble">Bubble Sort</option>
+                    <option value="selection">Selection Sort</option>
+                    <option value="insertion">Insertion Sort</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label for="speed-slider">Speed:</label>
+                <input type="range" id="speed-slider" class="form-control-range" min="1" max="100" value="50">
+            </div>
+            <div class="col-md-4">
+                <label for="size-slider">Array Size:</label>
+                <input type="range" id="size-slider" class="form-control-range" min="5" max="100" value="50">
+            </div>
+        </div>
+
+        <div class="bars-container mt-4"></div>
+
+        <div class="row justify-content-center controls mt-4">
+            <div class="col-md-4">
+                <button id="sort-btn" class="btn btn-primary btn-block">Sort</button>
+            </div>
+            <div class="col-md-4">
+                <button id="reset-btn" class="btn btn-secondary btn-block">Reset</button>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
