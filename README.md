@@ -10,16 +10,21 @@ SortQuester is sorting visualizer website.
 ![Forks](https://img.shields.io/github/forks/harshit2012/SortQuester)
 ![Stars](https://img.shields.io/github/stars/harshit2012/SortQuester)
 
-## Features
+## Features✨
 - Customizable Parameters
 - Algorithm Selection
 - Reset Functionality
 - Responsive Design
 
-## Technologies Used
+## Technologies Used💻
 - HTML
 - CSS
 - JS
+
+## Algorithm available-
+1. Bubble sort
+2. Selection sort
+3. Insertion sort
 
 ## Preview
 ![Screenshot (60)](https://github.com/Harshit2012/SortQuester/assets/105143145/4a28fa85-56c6-4edb-b12f-da0b8a2a1534)
